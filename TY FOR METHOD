@@ -32,7 +32,7 @@ local PlayerESP = Instance.new("Folder", ESPFolder)
 PlayerESP.Name = "PlayerESP"
 local ItemESP = Instance.new("Folder", ESPFolder)
 ItemESP.Name = "ItemESP"
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ginchao/Hoclomcongthuc/main/vohai"))()
 local MyPlr = Plrs.LocalPlayer
 local MyChar = MyPlr.Character
 local MyMouse = MyPlr:GetMouse()
