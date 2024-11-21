@@ -4,7 +4,6 @@
 
 -- Settings can be found on line: 51
 -- Don't change anything if you don't understand.
-
 local Plrs = game:GetService("Players")
 local Run = game:GetService("RunService")
 local CoreGui = game:GetService("CoreGui")
